@@ -1,0 +1,14 @@
+body {
+    background:#f1f1f1;
+}
+.bg-blue{
+    background-color: #3b5998 !important;
+}
+.footer{
+    width:100%;
+    background-color: #3b5998;
+    color:#fff;
+    bottom: 0;
+    padding-top:10px;
+    padding-bottom: 1px;
+}
